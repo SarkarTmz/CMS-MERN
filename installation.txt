@@ -1,0 +1,6 @@
+git init
+npm install express
+
+
+run
+node app.js
