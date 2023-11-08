@@ -1,0 +1,14 @@
+.footer-main{
+    background-color: rgb(30, 30, 30);
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.footer ul li{
+    list-style: none;
+}

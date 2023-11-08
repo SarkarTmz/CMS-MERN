@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav ul{
+    display: flex;
+    gap: 1rem;
+}
+nav ul a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    background-color: rgb(113, 113, 113);
+    padding: 0.7rem;
+}
