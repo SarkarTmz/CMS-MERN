@@ -6,24 +6,24 @@ Hello, I am currently learning and exploring full satck web development using **
 ###  1. ReactJS
 In this project i make frontend using React which is famous javascript frontend library. React is quiet faster and light weight javascript library which has component base architecture, so that is really robust, scaleble and mostly using in web application. In this code we use:-
 
-  ****React Router****
+  ****- React Router****
 
-  ****React Hook****
+  ****- React Hook****
   
-  ****React Hook Form****
+  ****- React Hook Form****
 
-  ****Axios****
+  ****- Axios****
   
-  ****JSX****
+  ****- JSX****
 
 ### 2. NodeJS & ExpressJS
 We use node js and ExpressJS for backend technologie to manage backend and connect to database. Node & express is javascript based backend framework which is light weight and best for making scaleble web application. We use here:-
 
-   ****Express****
+   ****- Express****
 
-  ****Mongoose****
+  ****- Mongoose****
   
-  ****Nodemon****
+  ****- Nodemon****
  
 
 ### 3. MongoDB
