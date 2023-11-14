@@ -6,32 +6,31 @@ Hello, I am currently learning and exploring full satck web development using **
 ###  1. ReactJS
 In this project i make frontend using React which is famous javascript frontend library. React is quiet faster and light weight javascript library which has component base architecture, so that is really robust, scaleble and mostly using in web application. In this code we use:-
 
-```bash
-  React Router
+  ****React Router****
 
-  cd NewsApp
-
-  npm install
-
-  npm run dev
+  ****React Hook****
   
-```
+  ****React Hook Form****
+
+  ****Axios****
+  
+  ****JSX****
+
 ### 2. NodeJS & ExpressJS
 We use node js and ExpressJS for backend technologie to manage backend and connect to database. Node & express is javascript based backend framework which is light weight and best for making scaleble web application. We use here:-
 
+   ****Express****
 
-```bash
-  React Router
-
-  cd NewsApp
-
-  npm install
-
-  npm run dev
+  ****Mongoose****
   
-```
+  ****Nodemon****
+ 
+
 ### 3. MongoDB
 We use MongoDB for database to this project. MongoDB is nonsql database which store data like json like format.
+
+### 4. Postman
+Postman is free opensource api testing tool which is first choice of every backend develpoer.
 
 This project is begineer friendly, clean and scalable.Please use this code for educational purpuse if you are begineer.Contributions are always welcome.
 
