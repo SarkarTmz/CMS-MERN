@@ -1,10 +1,9 @@
-.form-container {
-    max-width: 400px;
+form{
+    border: 2px solid #000000;
     margin: 0 auto;
-    padding: 20px;
-    background-color: #f4f4f4;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 0.8rem;
+    max-width: 500px;
+    padding: 2rem;
 }
 
 .form-group {

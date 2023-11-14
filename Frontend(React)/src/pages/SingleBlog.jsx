@@ -31,12 +31,16 @@ const SingleBlog = () => {
     
   
   return (
-    <div>
+    <div className='single container section'>
         <h1>{blog.title}</h1>
         <h3>{blog.subTitle}</h3>
         <p>{blog.description}</p>
-        <button onClick={deleteBlog} >Delete</button>
-        <Link to={`/update/${blog._id}`} > Update</Link> 
+
+        <div className="mini">
+            <Link to={`/update/${blog._id}`} > Update</Link>
+            <button onClick={deleteBlog} >Delete</button>
+           
+        </div> 
     </div>
   )
 }

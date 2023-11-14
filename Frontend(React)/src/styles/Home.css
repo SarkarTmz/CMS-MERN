@@ -4,9 +4,50 @@ button{
     padding: 5px;
 }
 .card{
-    width: 300px;
-    height: 200px;
-    margin: 0.5rem 0;
+    width: 100%;
+    padding: 1.5rem;
     text-align: center;
     background-color: rgb(111, 116, 120);
 }
+.home{
+    display: grid;
+    gap: 1rem;
+}
+
+/* xs */
+@media (min-width: 475px){
+    .container{
+        max-width: 475px;
+    }
+  }
+  
+  /* sm */
+  @media (min-width: 640px){
+    .container{
+        max-width: 640px;
+    }
+    .home{
+        grid-template-columns: auto auto;
+    }
+  }
+  
+  /* md */
+  @media (min-width: 768px){
+    .container{
+        max-width: 768px;
+    }
+    .home{
+        grid-template-columns: auto auto auto;
+    }
+  }
+  
+  /* lg */
+  @media (min-width: 1024px){
+    .container{
+        max-width: 1024px;
+    }
+    .home{
+        grid-template-columns: auto auto auto auto;
+    }
+  }
+  

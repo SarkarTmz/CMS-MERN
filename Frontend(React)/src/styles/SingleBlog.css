@@ -1,0 +1,18 @@
+.mini{
+    margin-top: 3rem;
+    display: flex;
+    gap: 1rem;
+}
+.mini a{
+    border: 1px solid black;
+    background-color: rgb(46, 212, 241);
+    color: black;
+    padding: 5px 1rem;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.mini button{
+    cursor: pointer;
+    padding: 0 1rem;
+    background-color: var(--clr-rose);
+}

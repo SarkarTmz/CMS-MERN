@@ -2,11 +2,12 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
+    flex-wrap: wrap;
 }
 nav ul{
     display: flex;
     gap: 1rem;
+    flex-wrap: wrap;
 }
 nav ul a{
     text-decoration: none;

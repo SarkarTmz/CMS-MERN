@@ -59,7 +59,7 @@ const UpdateBlog = () => {
   return (
     <>
 
-    <div className="form-container">
+    <div className="form section container">
     <h2>Update Blog</h2>
     <form onSubmit={updateBlog} >
         <div className="form-group">
@@ -74,7 +74,7 @@ const UpdateBlog = () => {
             <label htmlFor="description">Description</label>
             <textarea id="description" value={blog.description} onChange={handleChange} name="description" rows="4" placeholder="Enter Description"   ></textarea>
         </div>
-        <button className="btn" type="submit">Submit</button>
+        <button className="btn" type="submit">Update</button>
     </form>
 </div></>
 
